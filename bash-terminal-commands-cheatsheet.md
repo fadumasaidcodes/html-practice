@@ -76,4 +76,4 @@ Press `tab` key once to autocomplete once you have typed a unique portion of a f
 
 ---
 
-2024
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
